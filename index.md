@@ -1,6 +1,15 @@
 # Goals of the Project
 
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li>
+</ul>
+
 # Features Provided
+
+This site provides UH students the ability to 
 
 # Mock-Up Pages
 
