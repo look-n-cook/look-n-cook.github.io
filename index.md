@@ -4,12 +4,11 @@
   <li></li>
   <li></li>
   <li></li>
-  <li>
 </ul>
 
 # Features Provided
 
-This site provides UH students the ability to 
+This site provides UH students the ability to learn and share recipes. Trying to find the ingredients for these recipes is sometimes a hassle. So we have included a way for vendors around UH to provide information about the different ingredients that are used in the recipes. If the vendor sells the specific ingredient, they can include the price and the size of that ingredient.
 
 # Mock-Up Pages
 
