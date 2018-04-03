@@ -1,10 +1,6 @@
 # Goals of the Project
 
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
+The goal of this site is to help improve the nutritional content and variety of foods eaten by students and help them limit the use of vending machines or fast food products by providing tasty, realistic alternatives.
 
 # Features Provided
 
