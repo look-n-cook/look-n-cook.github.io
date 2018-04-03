@@ -20,3 +20,7 @@ This site provides UH students the ability to learn and share recipes. Trying to
 <img medium centered src="doc/page07.jpg">
 <img medium centered src="doc/page08.jpg">
 <img medium centered src="doc/page09.jpg">
+
+
+Source: <a href="https://github.com/uhrecipes"><i class="large github icon"></i>UHRecipes</a>
+
