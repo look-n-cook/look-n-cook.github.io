@@ -22,5 +22,5 @@ This site provides UH students the ability to learn and share recipes. Trying to
 <img medium centered src="doc/page09.jpg">
 
 
-Source: <a href="https://github.com/uhrecipes"><i class="large github icon"></i>UHRecipes</a>
+Source: <a href="https://github.com/uhrecipes"><i class="large github icon"></i>Look 'n' Cook</a>
 
