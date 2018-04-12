@@ -30,6 +30,7 @@ Over the course of developing Look 'n' Cook, we created Milestones that had issu
 <img medium centered src="doc/page09.jpg">
 
 Milestone 1 was implemented as <a href="https://github.com/look-n-cook/Look-n-Cook/projects/1">Look 'n' Cook GitHub Milestone M1</a>:
+<img medium centered src="doc/M1Board.PNG">
 
 ## Milestone 2: Mockup Developement 
 
