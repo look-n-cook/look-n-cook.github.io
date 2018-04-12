@@ -19,15 +19,19 @@ Over the course of developing Look 'n' Cook, we created Milestones that had issu
 ## Milestone 1: Mockup Developement 
 
 ### Mock-Up Pages
-<img medium centered src="doc/page01.jpg">
-<img medium centered src="doc/page02.jpg">
-<img medium centered src="doc/page03.jpg">
-<img medium centered src="doc/page04.jpg">
-<img medium centered src="doc/page05.jpg">
-<img medium centered src="doc/page06.jpg">
-<img medium centered src="doc/page07.jpg">
-<img medium centered src="doc/page08.jpg">
-<img medium centered src="doc/page09.jpg">
+<center>
+  <div class = "ui small images">
+    <img src="doc/page01.jpg">
+    <img src="doc/page02.jpg">
+    <img src="doc/page03.jpg">
+    <img src="doc/page04.jpg">
+    <img src="doc/page05.jpg">
+    <img src="doc/page06.jpg">
+    <img src="doc/page07.jpg">
+    <img src="doc/page08.jpg">
+    <img src="doc/page09.jpg">
+  </div>
+</center>
 
 Milestone 1 was implemented as <a href="https://github.com/look-n-cook/Look-n-Cook/projects/1">Look 'n' Cook GitHub Milestone M1</a>:
 <img medium centered src="doc/M1Board.PNG">
