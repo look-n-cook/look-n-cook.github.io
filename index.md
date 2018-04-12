@@ -24,24 +24,24 @@ End Date: April 12, 2018
 For this Milestone, we wanted to create mockup designs of the possible pages that we plan to implement. Below are some of the designs that we came up with. 
 
 ### Mockup Pages
-<center>
-    <img width="200px" src="doc/page01.jpg">
-    <img width="200px" src="doc/page02.jpg">
-    <img width="200px" src="doc/page03.jpg">
-    <img width="200px" src="doc/page04.jpg">
-    <img width="200px" src="doc/page05.jpg">
-    <img width="200px" src="doc/page06.jpg">
-    <img width="200px" src="doc/page07.jpg">
-    <img width="200px" src="doc/page08.jpg">
-    <img width="200px" src="doc/page09.jpg">
-</center>
+<img width="200px" src="doc/page01.jpg">
+<img width="200px" src="doc/page02.jpg">
+<img width="200px" src="doc/page03.jpg">
+<img width="200px" src="doc/page04.jpg">
+<img width="200px" src="doc/page05.jpg">
+<img width="200px" src="doc/page06.jpg">
+<img width="200px" src="doc/page07.jpg">
+<img width="200px" src="doc/page08.jpg">
+<img width="200px" src="doc/page09.jpg">
 
 We were able to complete the design for our landing page and decide on a color scheme to use. We were also able to deploy our application. 
+
 <img medium centered src="doc/Landing.PNG">
 
 As we were implementing the user home page and profile pages, we soon realized that we would need to create a schema for our recipes. With a recipe schema, we would be able to create recipe cards to display on the user home and profile page. So we moved issues #5 and #6 to Milestone 2 and started to work on the schema for our recipes. 
 
 Milestone 1 was implemented as <a href="https://github.com/look-n-cook/Look-n-Cook/projects/1">Look 'n' Cook GitHub Milestone M1</a>:
+
 <img medium centered src="doc/M1Board.PNG">
 
 Source: <a href="https://github.com/uhrecipes"><i class="large github icon"></i>Look 'n' Cook</a>
