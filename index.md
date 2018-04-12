@@ -1,3 +1,5 @@
+<h1 class="project-name">Look 'n' Cook</h1>
+
 Link To Website: <a href="http://look-n-cook.meteorapp.com/#/">Look 'n' Cook</a>
 
 # About Look 'n' Cook
