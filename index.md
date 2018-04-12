@@ -1,4 +1,4 @@
-Link: <a href="http://look-n-cook.meteorapp.com/#/">Look 'n' Cook</a>
+Link To Website: <a href="http://look-n-cook.meteorapp.com/#/">Look 'n' Cook</a>
 
 # About Look 'n' Cook
 
