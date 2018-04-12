@@ -17,10 +17,10 @@ This site provides UH students the ability to learn and share recipes. Trying to
 Over the course of developing Look 'n' Cook, we created Milestones that had issues that needed to be worked on before a certain due date. To manage these issues, we used GitHub projects to assign the issuses to different memebers. The following sections highlight the issues that were accomplished in each Milestone.  
 
 ## Milestone 1: Mockup Developement 
-<div>
+
 Start Date: April 3, 2018
+
 End Date: April 12, 2018
-</div>  
 
 For this Milestone, we wanted to create mockup designs of the possible pages that we plan to implement. Below are some of the designs that we came up with. 
 
