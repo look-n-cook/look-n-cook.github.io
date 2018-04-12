@@ -1,6 +1,8 @@
-<h1 class="project-name">Look 'n' Cook</h1>
-
-Link To Website: <a href="http://look-n-cook.meteorapp.com/#/">Look 'n' Cook</a>
+<section class="page-header">
+  <h1 class="project-name">Look 'n' Cook</h1>
+  <a href="https://github.com/uhrecipes" class="btn">View on GitHub</a>
+  <a href="http://look-n-cook.meteorapp.com/#/" class="btn">Website</a>
+</section>
 
 # About Look 'n' Cook
 
@@ -46,6 +48,4 @@ As we were implementing the user home page and profile pages, we soon realized t
 Milestone 1 was implemented as <a href="https://github.com/look-n-cook/Look-n-Cook/projects/1">Look 'n' Cook GitHub Milestone M1</a>:
 
 <img medium centered src="doc/M1Board.PNG">
-
-Source: <a href="https://github.com/uhrecipes"><i class="large github icon"></i>Look 'n' Cook</a>
 
