@@ -1,9 +1,3 @@
-<section class="page-header">
-  <h1 class="project-name">Look 'n' Cook</h1>
-  <a href="https://github.com/uhrecipes" class="btn">View on GitHub</a>
-  <a href="http://look-n-cook.meteorapp.com/#/" class="btn">Website</a>
-</section>
-
 # About Look 'n' Cook
 
 ## Goals of the Project
