@@ -18,8 +18,16 @@
     </section>
 
     <section class="main-content">
-      <h1>About Look 'n' Cook</h1>
-
+      <h1>Table of Contents</h1>
+      <ul>
+        <li><a href="#about">About Look 'n' Cook</li>
+        <li><a href="#userGuide">User Guide</li>
+        <li><a href="#development">Development History</li>
+        <li><a href="#community">Community Feedback</li>
+        <li><a href="#developer">Developer Guide</li>  
+      </ul>  
+       
+      <h1 id="about">About Look 'n' Cook</h1>
       <h2>Goals of the Project</h2>
       <ul>
         <li>Help improve the nutritional content and variety of foods eaten by students.</li>
@@ -28,7 +36,23 @@
       <h2>Features Provided</h2>
       <p>This site provides UH students the ability to learn and share recipes. Trying to find the ingredients for these recipes is sometimes a hassle. So we have included a way for vendors around UH to provide information about the different ingredients that are used in the recipes. If the vendor sells the specific ingredient, they can include the price and the size of that ingredient.</p>
       
-      <h1>Development History</h1>
+      <h1 id="userGuide">User Guide</h1>
+      <h2>Landing Page</h2>
+        <p>Only a visitor of the app who is not logged into an account will see this page. From here, he or she can only log in or sign up. This page describes the main features of the Look ‘n’ Cook.</p>
+      <h2>User Home Page</h2>
+        <p>The User Home page replaces the Landing page after the user signs in. It displays the 6 most recent recipes. The recipe cards on this page only give the user the option to go to the full recipe page.</p>
+      <h2>User Profile Page</h2>
+        <p>Each user has a unique profile page. Users can get there by clicking on their username and selecting the “Profile” tab. It displays all the recipes that he or she has created, and the recipe cards have the option to view, edit, or delete a recipe. </p>
+      <h2>Add Recipe Page</h2>
+        <p>Users can add new recipes for other users to view. They can reach this page via the “Add Recipe” tab in the navigation menu. Here, they can specify the recipe name and dietary restrictions; add a brief description and image; and list the required ingredients and steps. </p>
+      <h2>Edit Recipe Page</h2>
+        <p>The edit tab on the recipe cards in the User Profile page leads to this page that has an identical lay out to the Add Recipe page. The difference is that the field are already filled with the information about the recipe that the user is trying to edit. The user can change the fields just like on Add Recipe page, and the recipe will be updated after clicking the “Submit” button.</p>
+      <h2>Recipes Admin Page</h2>
+        <p>The Recipes Admin page is viewable only by an admin user, and lists all of the recipes saved in the system. The list displays the recipe names, the respective creators, and the dates that all the recipes were created on without the frills that a user would usually see.</p>
+      <h2>Users Admin Page</h2>
+        <p>The Users Admin page acts similarly to the Recipes Admin page. Instead of recipes, this page lists all of the users in the app. The list contains all the users and the number of recipes that a user has created.</p>
+      
+      <h1 id="development">Development History</h1>
       <p>Over the course of developing Look 'n' Cook, we created Milestones that had issues that needed to be worked on before a certain due date. To manage these issues, we used GitHub projects to assign the issuses to different memebers. The following sections highlight the issues that were accomplished in each Milestone.</p>      
       <h2>Milestone 1: Mockup Developement</h2> 
       <table>
@@ -79,7 +103,7 @@
       <p>Milestone 2 was implemented as <a href="https://github.com/look-n-cook/Look-n-Cook/projects/2">Look 'n' Cook GitHub Milestone M2</a>:</p>      
       <img medium centered src="doc/M2Board.PNG">
       
-      <h1>Community Feedback</h1>
+      <h1 id="community">Community Feedback</h1>
       <h2>Community Findings After Implimentations in M2</h2>
       <ul>
         <li>Include a comment/review section for each recipe. This way users who tried out the recipe could give some feedback for other users.</li>
